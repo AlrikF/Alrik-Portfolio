@@ -116,7 +116,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: Languages
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
