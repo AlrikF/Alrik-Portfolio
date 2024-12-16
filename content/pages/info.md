@@ -154,7 +154,7 @@ sections:
     subtitle: Cloud Platforms
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Microsoft Azure
         url: ''
       - type: Label
         label: React
