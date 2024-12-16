@@ -450,7 +450,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: EDUCATION
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
