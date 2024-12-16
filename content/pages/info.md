@@ -287,7 +287,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: LEETCODE
             altText: ''
             url: 'https://leetcode.com/u/AlrikF/'
             showIcon: false
