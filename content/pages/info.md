@@ -362,7 +362,7 @@ sections:
               - pr-0
         title: Microsoft
       - type: FeaturedItem
-        subtitle: Easley Dunn Productions
+        subtitle: ''
         text: "Software Engineer Intern                            Aug 2024\_-\_Nov 2024\n\n\n•\tDeveloped a virtual reality simulation application for medical professionals, enabling immersive training for various medical procedures using Unity. Supported both VR headsets and mobile platforms (Android and iOS).\n"
         styles:
           self:
