@@ -156,14 +156,14 @@ sections:
       - type: Label
         label: PySpark
       - type: Label
-        label: React
-      - type: Label
         label: REST
         url: ''
       - type: Label
         label: Airflow
       - type: Label
         label: Pytorch
+      - type: Label
+        label: React
       - type: Label
         label: Pandas
         url: ''
