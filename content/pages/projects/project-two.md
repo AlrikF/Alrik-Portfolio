@@ -4,7 +4,10 @@ title: Retinal Anomaly Detection using OCT B Scans
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  Detection of Anomalies in the Retina from OCT B scan images. Utilized a
+  combination of Attention Modules to weight feature maps and Convolutional
+  Neural Networks
 featuredImage:
   type: ImageBlock
   url: /images/oct.png
