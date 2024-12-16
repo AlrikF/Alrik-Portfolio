@@ -47,6 +47,41 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: RecentProjectsSection
+    subtitle: Projects
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    recentCount: 6
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -108,39 +143,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: RecentProjectsSection
-    subtitle: Projects
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    recentCount: 6
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
 ---
