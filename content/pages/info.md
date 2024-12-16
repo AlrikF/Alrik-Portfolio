@@ -125,7 +125,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: C++
         url: ''
       - type: Label
         label: Next.js
