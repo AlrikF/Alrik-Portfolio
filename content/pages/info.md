@@ -154,7 +154,7 @@ sections:
     subtitle: 'Frameworks '
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: PySpark
       - type: Label
         label: React
       - type: Label
