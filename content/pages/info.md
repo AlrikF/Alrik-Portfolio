@@ -408,6 +408,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: EXPERIENCE
   - type: DividerSection
     styles:
       self:
