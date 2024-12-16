@@ -13,11 +13,15 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Hey I’m Alrik. I'm a developer driven by a curiosity for technology. I
+      have received my Master's in Computer Science from the University of
+      Southern California, and am deeply engaged in the realm of Computer
+      Science. My passion lies in harnessing a powerful blend of Software
+      development, Data Science, Machine Learning, Data Engineering, and
+      Analytics to engineer pragmatic solutions that address real-world business
+      challenges, and projects that leave an impact
+
     media:
       type: ImageBlock
       url: /images/about.jpg
