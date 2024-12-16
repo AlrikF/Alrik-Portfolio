@@ -96,7 +96,7 @@ sections:
         label: See all posts
         url: /blog
     posts: []
-    showDate: true
+    showDate: false
     showExcerpt: false
     showReadMoreLink: true
     styles:
