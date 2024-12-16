@@ -101,6 +101,7 @@ sections:
           - mt-1
           - mr-1
           - ml-1
+          - mb-1
       title:
         textAlign: left
       subtitle:
