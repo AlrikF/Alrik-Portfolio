@@ -172,6 +172,9 @@ sections:
         label: Spring
         url: ''
       - type: Label
+        label: Flask
+        url: ''
+      - type: Label
         label: Pandas
         url: ''
       - type: Label
