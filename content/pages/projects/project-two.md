@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Retinal Anomaly Detection using OCT B Scans
 colors: colors-a
-date: '2021-12-20'
+date: ''
 client: ''
 description: >-
   Detection of Anomalies in the Retina from OCT B scan images. Utilized a
