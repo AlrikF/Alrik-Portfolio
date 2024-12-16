@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Indoor Navigation
 colors: colors-a
 date: '2021-10-15'
 client: ''
