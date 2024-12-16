@@ -151,7 +151,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Frameworks '
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
