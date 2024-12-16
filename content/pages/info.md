@@ -16,7 +16,7 @@ sections:
     text: "### Hey I’m Alrik. \U0001F44B\n\nI’m a passionate developer fueled by curiosity and a love for technology. I hold a Master’s degree in Computer Science from the University of Southern California and am deeply immersed in the world of Computer Science. My expertise lies at the intersection of Software Development, Machine Learning, Data Engineering, and Analytics, where I thrive on building impactful, practical solutions to complex problems.\n\n\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-12-15 at 10.41.15 PM.jpeg
       altText: Hero image
     styles:
       self:
