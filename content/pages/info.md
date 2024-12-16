@@ -538,4 +538,13 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://www.linkedin.com/in/alrik-fernandes/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
 ---
