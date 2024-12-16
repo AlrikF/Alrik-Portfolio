@@ -71,7 +71,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/Logo-microsoft-transparent-background-PNG.png
+        url: /images/HRT.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
