@@ -177,9 +177,6 @@ sections:
         label: Pancakes
       - type: Label
         label: C++
-      - type: Label
-        label: Label title
-        url: ''
   - type: DividerSection
     styles:
       self:
