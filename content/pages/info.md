@@ -226,7 +226,7 @@ sections:
         label: Git
         url: ''
       - type: Label
-        label: Next.js
+        label: Databricks
         url: ''
       - type: Label
         label: Netlify
