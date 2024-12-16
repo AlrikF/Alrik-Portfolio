@@ -159,9 +159,6 @@ sections:
       - type: Label
         label: AWS
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
