@@ -97,6 +97,8 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
+        margin:
+          - mt-1
       title:
         textAlign: left
       subtitle:
