@@ -12,7 +12,7 @@ description: >-
   wifi.py uses values of RSSI from WIFI APs for weighted centroid positioning.
 featuredImage:
   type: ImageBlock
-  url: /images/indoor navigation.jpg
+  url: /images/speech2text.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
