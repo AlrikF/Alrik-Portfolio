@@ -373,7 +373,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        title: Item Title
+        title: KECK
         subtitle: ''
         text: "**Software Developer Intern** \n\n**Jun 2023\_-\_May 2024**\n\n*   Accelerated data pipeline throughput by \\~24% through the integration of Apache Airflow, AWS and PySpark for healthcare data. \n\n\n*   Led the development of data pipelines for medical record ETL, patient data processing and employee compensation calculations.\n\n\n*   Engineered Tableau dashboards and utilized statistical modelling, SQL, pandas to create data visualizations for business insights and for data driven solutions.\n\n\n\n"
         elementId: ''
