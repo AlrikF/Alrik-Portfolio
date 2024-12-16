@@ -466,7 +466,9 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: >-
+            A brief description of what you would like to know about/reason for
+            reaching out  
           isRequired: true
           width: full
           type: TextareaFormControl
