@@ -173,6 +173,9 @@ sections:
       - type: Label
         label: Spring
         url: ''
+      - type: Label
+        label: Pandas
+        url: ''
   - type: DividerSection
     styles:
       self:
