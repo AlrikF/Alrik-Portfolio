@@ -160,9 +160,6 @@ sections:
         label: AWS
         url: ''
       - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label
