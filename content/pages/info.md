@@ -134,9 +134,6 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: Javascript
-        url: ''
-      - type: Label
         label: C++
         url: ''
     colors: colors-f
