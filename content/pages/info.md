@@ -134,7 +134,7 @@ sections:
         label: C#
         url: ''
       - type: Label
-        label: Pancakes
+        label: Javascript
         url: ''
       - type: Label
         label: C++
