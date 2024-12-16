@@ -164,7 +164,7 @@ sections:
       - type: Label
         label: Tensorflow
       - type: Label
-        label: Pancakes
+        label: Kafka
       - type: Label
         label: C++
   - type: DividerSection
