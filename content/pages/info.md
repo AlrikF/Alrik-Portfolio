@@ -540,7 +540,7 @@ sections:
     subtitle: 'You can find me here:'
     actions:
       - type: Link
-        label: Learn more
+        label: Linkedin
         altText: ''
         url: 'https://www.linkedin.com/in/alrik-fernandes/'
         showIcon: false
