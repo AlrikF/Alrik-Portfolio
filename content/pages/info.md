@@ -271,10 +271,7 @@ sections:
       - type: FeaturedItem
         title: MICROSOFT
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "**Intern**\n\n**Nov 2024\_-\_Present**\n\n•\tBuilt an application to identify user intent and redact Personally Identifiable Information (PII), enhancing customer data security.\n\n\n•\tDeveloped a benchmarking framework for Azure AI language models, Named entity recognition models and LLMS to streamline the evaluation process for customers by reducing analysis time by 20% and improving decision-making for model deployment.\n\n\n•     Utilized Azure OpenAI for synthetic data augmentation for data that is scarcely available\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
