@@ -185,7 +185,7 @@ sections:
         label: PostgreSQL
         url: ''
       - type: Label
-        label: React
+        label: Redshift
         url: ''
       - type: Label
         label: Microsoft Office
