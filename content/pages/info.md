@@ -160,7 +160,7 @@ sections:
       - type: Label
         label: Airflow
       - type: Label
-        label: Next.js
+        label: Pytorch
       - type: Label
         label: Netlify
       - type: Label
