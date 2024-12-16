@@ -131,7 +131,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: Netlify
+        label: C#
         url: ''
       - type: Label
         label: Pancakes
