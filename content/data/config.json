@@ -31,6 +31,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/AlrikF",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/alrik-fernandes/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
