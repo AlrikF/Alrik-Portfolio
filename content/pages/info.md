@@ -357,16 +357,7 @@ sections:
         title: Pune Institute of Computer Technology
         subtitle: Bachelor of Engineering in Information Technology - 9.5/10.0 GPA
         text: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
