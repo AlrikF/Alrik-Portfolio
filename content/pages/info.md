@@ -94,7 +94,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: x-small
-        borderWidth: 0
+        borderWidth: 1
         borderStyle: none
         borderColor: border-secondary
         margin:
