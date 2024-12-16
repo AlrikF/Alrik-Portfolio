@@ -363,18 +363,7 @@ sections:
         title: Microsoft
       - type: FeaturedItem
         subtitle: Easley Dunn Productions
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+        text: "Software Engineer Intern                            Aug 2024\_-\_Nov 2024\n\n\n•\tDeveloped a virtual reality simulation application for medical professionals, enabling immersive training for various medical procedures using Unity. Supported both VR headsets and mobile platforms (Android and iOS).\n"
         styles:
           self:
             textAlign: left
