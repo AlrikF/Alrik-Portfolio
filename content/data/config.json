@@ -50,12 +50,6 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/AlrikF",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
