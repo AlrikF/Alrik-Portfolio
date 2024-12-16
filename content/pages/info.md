@@ -176,6 +176,9 @@ sections:
       - type: Label
         label: Pandas
         url: ''
+      - type: Label
+        label: Numpy
+        url: ''
   - type: DividerSection
     styles:
       self:
