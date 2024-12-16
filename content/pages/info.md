@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     text: "### Hey I’m Alrik. \U0001F44B\n\nI’m a passionate developer fueled by curiosity and a love for technology. I hold a Master’s degree in Computer Science from the University of Southern California and am deeply immersed in the world of Computer Science. My expertise lies at the intersection of Software Development, Machine Learning, Data Engineering, and Analytics, where I thrive on building impactful, practical solutions to complex problems.\n\n\n\n"
     media:
       type: ImageBlock
