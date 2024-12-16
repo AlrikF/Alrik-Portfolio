@@ -298,10 +298,7 @@ sections:
       - type: FeaturedItem
         title: UBS
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Software Engineer\n\nJul 2021\_-\_Jul 2022\n\n● Collaborated cross-functionally to optimize ETL and data transformation by implementing data pipelines and microservices for the data governance platform using Spring, Powershell, Azure, Delta Lake, PostgreSQL and Databricks for 40+ clients.\n\n\n● Developed a product and its REST APIs to recommend internal datasets for partners as per their requirements using Spring boot, Java, React and Microsoft Azure.\n\n\n● Reduced turnaround time by 40% for cross-tenant data sharing by implementing risk-based provisioning module and secure data access features enhancing compliance and data privacy resulting in accelerated analytics and development workflows.\n\n\n● Streamlined approval process by automated access to low-risk assets eliminating manual intervention.\n\n\n● Migrated the data governance platform, integrating cluster orchestration through Kubernetes for streamlined deployment.\n\n\n● Addressed tenant-reported bugs and performed unit testing of REST APIs using Cucumber and scripts deployed in Azure.\n\n\n● Reduced completion time by 10% for both provisioning new tenant environments, and environment migration in Azure.\n\n\n● Worked with large datasets distributed across Spark Clusters, processing them for compatibility with the data platform.\n\n\n•\tDeveloped data retrieval REST API in Spring Boot and integrated them with Postgres databases and Azure data factory.\n\n\n•\tDeveloped features for IAM and RBAC to ensure compliance with tenant and DGP policies to efficiently handle identity management for enhanced security.\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
