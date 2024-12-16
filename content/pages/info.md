@@ -166,7 +166,7 @@ sections:
       - type: Label
         label: Kafka
       - type: Label
-        label: C++
+        label: Tableau
   - type: DividerSection
     styles:
       self:
