@@ -165,6 +165,9 @@ sections:
       - type: Label
         label: Pytorch
       - type: Label
+        label: Pandas
+        url: ''
+      - type: Label
         label: Tensorflow
       - type: Label
         label: Kafka
@@ -179,9 +182,6 @@ sections:
         url: ''
       - type: Label
         label: Apache Spark
-        url: ''
-      - type: Label
-        label: Pandas
         url: ''
       - type: Label
         label: Numpy
