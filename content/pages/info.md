@@ -63,7 +63,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/ubs.webp
+        url: /images/ubs.jpg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
