@@ -229,7 +229,7 @@ sections:
         label: Databricks
         url: ''
       - type: Label
-        label: Netlify
+        label: Docker
         url: ''
       - type: Label
         label: Pancakes
