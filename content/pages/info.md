@@ -345,7 +345,7 @@ sections:
     title: EDUCATION
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 'University of Southern California '
         subtitle: ''
         text: ''
         actions: []
