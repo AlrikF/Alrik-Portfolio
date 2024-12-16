@@ -115,24 +115,6 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-  - type: LabelsSection
     title: Skills
     subtitle: The section subtitle
     items:
@@ -176,6 +158,24 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Skills:'
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+      - type: Label
+        label: React
+      - type: Label
+        label: Microsoft Office
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: Netlify
+      - type: Label
+        label: Pancakes
+      - type: Label
+        label: C++
   - type: DividerSection
     styles:
       self:
