@@ -232,7 +232,7 @@ sections:
         label: Docker
         url: ''
       - type: Label
-        label: Pancakes
+        label: Kubernetes
         url: ''
       - type: Label
         label: C++
