@@ -99,6 +99,7 @@ sections:
         borderColor: border-dark
         margin:
           - mt-1
+          - mr-1
       title:
         textAlign: left
       subtitle:
