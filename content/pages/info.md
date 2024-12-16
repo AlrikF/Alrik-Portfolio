@@ -158,7 +158,7 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Airflow
       - type: Label
         label: Next.js
       - type: Label
