@@ -397,8 +397,8 @@ sections:
       self:
         width: wide
         padding:
-          - pt-12
-          - pb-12
+          - pt-8
+          - pb-8
           - pl-4
           - pr-4
         justifyContent: center
@@ -409,8 +409,8 @@ sections:
       self:
         width: wide
         padding:
-          - pt-8
-          - pb-8
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
