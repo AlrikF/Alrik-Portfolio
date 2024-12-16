@@ -78,7 +78,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "2135198573",
+            "phoneNumber": "+1 (213)-519-8573",
             "phoneAltText": "My phone number",
             "email": "alrik.fernandes@gmail.com",
             "emailAltText": "My email",
