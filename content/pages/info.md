@@ -158,6 +158,9 @@ sections:
       - type: Label
         label: React
       - type: Label
+        label: REST
+        url: ''
+      - type: Label
         label: Airflow
       - type: Label
         label: Pytorch
