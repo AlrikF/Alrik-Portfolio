@@ -307,13 +307,6 @@ sections:
         title: Intangles Lab Pvt Ltd
         subtitle: ''
         text: "Machine Learning Intern\n\nFeb 2020\_-\_Mar 2021\n\n•\tCreated a web application using React.js, Flask and AWS S3 to upload and store images with AWS Lambda to trigger the training.\n\n\n•\tImplemented a full-stack solution for periodic client-side image capture, and Flask for server-side image reception and processing. \n\n\n•\tSlashed Type I error by 8% by implementing open set recognition for addition of new drivers in the authorization system.\n\n\n•\tImplemented active learning, using TensorFlow to utilize minimal images and making training speed 12% faster. \n\n\n•\tEngineered an end-to-end system using TensorFlow, PySpark, and Flask encompassing driver validation, driving pattern analysis, and real-time vehicle metric tracking, augmented by a digital twinning system. \n\n\n•\tFine-tuned ML model utilizing Mask RCNN architecture to localize motion blur in images captured by onboard cameras.\n\n\n•\tUtilized Tableau to craft dynamic dashboards presenting sector, region, and quarterly profit insights.\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
