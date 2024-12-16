@@ -76,7 +76,7 @@ sections:
         caption: Logo four
     spacing: 10
     columns: 4
-    aspectRatio: auto
+    aspectRatio: '16:9'
     showCaption: false
     enableHover: true
     styles:
