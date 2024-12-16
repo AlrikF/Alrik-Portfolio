@@ -266,7 +266,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: EXPERIENCES
     items:
       - type: FeaturedItem
         title: I'm Fast
