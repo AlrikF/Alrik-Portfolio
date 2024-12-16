@@ -150,7 +150,7 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
