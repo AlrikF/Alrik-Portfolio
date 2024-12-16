@@ -169,7 +169,7 @@ sections:
           - pt-0
           - pb-0
           - pl-4
-          - pr-0
+          - pr-4
         justifyContent: center
       title:
         textAlign: left
