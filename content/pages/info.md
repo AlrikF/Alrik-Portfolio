@@ -194,7 +194,7 @@ sections:
         label: AWS Redshift
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Git
         url: ''
       - type: Label
         label: Next.js
