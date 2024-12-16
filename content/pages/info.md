@@ -184,7 +184,7 @@ sections:
     subtitle: Tools
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: PostgreSQL
         url: ''
       - type: Label
         label: React
