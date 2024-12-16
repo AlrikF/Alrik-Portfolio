@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/pxfuel (1).jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,14 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "### Hey I’m Alrik. \U0001F44B\n\nI’m a passionate developer fueled by curiosity and a love for technology. I hold a Master’s degree in Computer Science from the University of Southern California and am deeply immersed in the world of Computer Science. My expertise lies at the intersection of Software Development, Machine Learning, Data Engineering, and Analytics, where I thrive on building impactful, practical solutions to complex problems.\n\n\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-12-15 at 10.41.15 PM.jpeg
       altText: Hero image
     styles:
       self:
@@ -63,30 +59,26 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Screenshot 2024-12-16 000255.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/Screenshot 2024-12-16 000446.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Intangles-UK_latest.webp
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/HRT.png
         altText: Logo four
         caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
+    spacing: 10
+    columns: 4
     aspectRatio: auto
     showCaption: false
-    enableHover: false
+    enableHover: true
     styles:
       self:
         width: wide
@@ -97,10 +89,15 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
+        borderRadius: x-small
         borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
+        borderStyle: solid
+        borderColor: border-secondary
+        margin:
+          - mt-1
+          - mr-1
+          - ml-1
+          - mb-1
       title:
         textAlign: left
       subtitle:
@@ -124,47 +121,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://github.com/AlrikF'
         styles:
           self:
             textAlign: left
@@ -221,7 +178,8 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Label title
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -381,11 +339,6 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
