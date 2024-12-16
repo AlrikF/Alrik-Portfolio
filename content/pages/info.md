@@ -304,7 +304,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Machine Learning Intern
+        title: Intangles Lab Pvt Ltd
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
