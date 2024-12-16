@@ -97,7 +97,7 @@ sections:
         url: /blog
     posts: []
     showDate: true
-    showExcerpt: true
+    showExcerpt: false
     showReadMoreLink: true
     styles:
       self:
