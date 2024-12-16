@@ -15,8 +15,9 @@ sections:
     backgroundSize: full
     title: 'Hey There! I’m Alrik Fernandes '
     subtitle: >-
-      I'm a Computer Science graduate from the University of Southern California
-      Welcome  
+      I'm a Computer Science graduate from the University of Southern
+      California. My interests lie at the intersection of Software Development,
+      Machine Learning and Data Engineering 
     styles:
       self:
         height: auto
