@@ -289,10 +289,7 @@ sections:
       - type: FeaturedItem
         title: Keck
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "**Software Developer Intern**\n\n**Jun 2023\_-\_May 2024**\n\n•\tAccelerated data pipeline throughput by \\~24% through the integration of Apache Airflow, AWS and PySpark for healthcare data. \n\n\n•\tLed the development of data pipelines for medical record ETL, patient data processing and employee compensation calculations.\n\n\n•\tEngineered Tableau dashboards and utilized statistical modelling, SQL, pandas to create data visualizations for business insights and for data driven solutions.\n\n"
         actions:
           - type: Button
             label: ''
