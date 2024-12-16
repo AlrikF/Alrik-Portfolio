@@ -436,57 +436,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/AlrikF'
-        styles:
-          self:
-            textAlign: left
-        title: ''
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Link
-            label: LEETCODE
-            altText: ''
-            url: 'https://leetcode.com/u/AlrikF/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
@@ -550,4 +499,55 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: GitHub
+            url: 'https://github.com/AlrikF'
+        styles:
+          self:
+            textAlign: left
+        title: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: LEETCODE
+            altText: ''
+            url: 'https://leetcode.com/u/AlrikF/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    subtitle: 'You can find me here:'
 ---
