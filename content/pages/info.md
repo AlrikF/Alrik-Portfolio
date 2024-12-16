@@ -315,13 +315,6 @@ sections:
         title: Hyperreality Technologies
         subtitle: ''
         text: "**Deep Learning Intern**\n\n**May 2020\_-\_Jul 2020**\n\n•\tDeveloped a machine learning model using TensorFlow that extracts and transforms the components of a 2D floorplan that can be ingested by and performed 3D reconstruction to convert it to a model traversable using augmented reality.\n\n\n•\tConceptualized and implemented a content management service to streamline the organization, storage, and delivery of digital assets.\n\n\n•\tImplemented the half edge data structure and algorithms for mesh traversal in C++ and rendered visualizations using Javascript.\n\n\n•\tCreated the dataset from scratch by utilizing web scraping (Selenium & Beautiful Soup), followed by annotation, and making use of semi-supervised learning to augment the dataset.\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
