@@ -235,7 +235,7 @@ sections:
         label: Kubernetes
         url: ''
       - type: Label
-        label: C++
+        label: Tableau
         url: ''
       - type: Label
         label: Swift
