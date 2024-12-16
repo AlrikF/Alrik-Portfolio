@@ -157,7 +157,7 @@ sections:
         label: Microsoft Azure
         url: ''
       - type: Label
-        label: React
+        label: AWS
         url: ''
       - type: Label
         label: Microsoft Office
