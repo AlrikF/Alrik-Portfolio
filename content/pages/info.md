@@ -18,9 +18,8 @@ sections:
       have received my Master's in Computer Science from the University of
       Southern California, and am deeply engaged in the realm of Computer
       Science. My passion lies in harnessing a powerful blend of Software
-      development, Data Science, Machine Learning, Data Engineering, and
-      Analytics to engineer pragmatic solutions that address real-world business
-      challenges, and projects that leave an impact
+      development, Machine Learning, Data Engineering, and Analytics to engineer
+      pragmatic solutions that leave an impact
 
     media:
       type: ImageBlock
