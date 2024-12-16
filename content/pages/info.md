@@ -166,8 +166,6 @@ sections:
       - type: Label
         label: Kafka
       - type: Label
-        label: Tableau
-      - type: Label
         label: Tensorflow
         url: ''
       - type: Label
