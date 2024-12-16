@@ -80,4 +80,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Projects
 ---
