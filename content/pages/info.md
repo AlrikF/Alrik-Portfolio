@@ -341,87 +341,65 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-0
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
-    colors: colors-f
+    title: EDUCATION
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/AlrikF'
-        styles:
-          self:
-            textAlign: left
-        title: ''
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
+        title: 'University of Southern California '
+        subtitle: Masters in Computer Science - 3.85/4.0 GPA
         text: ''
+        actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
-        actions:
-          - type: Link
-            label: LEETCODE
-            altText: ''
-            url: 'https://leetcode.com/u/AlrikF/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-    columns: 3
-    spacingX: 120
-    spacingY: 0
+      - type: FeaturedItem
+        title: Pune Institute of Computer Technology
+        subtitle: Bachelor of Engineering in Information Technology - 9.5/10.0 GPA
+        text: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
-          - pt-8
-          - pb-8
+          - pt-14
+          - pb-14
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
+        margin:
+          - mb-2
       title:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      <alrik.fernandes@gmail.com>
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+      actions:
+        justifyContent: flex-start
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
@@ -497,4 +475,76 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: GitHub
+            url: 'https://github.com/AlrikF'
+        styles:
+          self:
+            textAlign: left
+        title: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: LEETCODE
+            altText: ''
+            url: 'https://leetcode.com/u/AlrikF/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    subtitle: 'You can find me here:'
+    actions:
+      - type: Link
+        label: Linkedin
+        altText: ''
+        url: 'https://www.linkedin.com/in/alrik-fernandes/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
 ---
