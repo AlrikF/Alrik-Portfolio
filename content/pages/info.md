@@ -290,16 +290,7 @@ sections:
         title: Easley Dunn Productions
         subtitle: ''
         text: "**Software Engineer Intern**\n\n**Aug 2024\_-\_Nov 2024**\n\n•\tDeveloped a virtual reality simulation application for medical professionals, enabling immersive training for various medical procedures using Unity. Supported both VR headsets and mobile platforms (Android and iOS).\n\n"
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
