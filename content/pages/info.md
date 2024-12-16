@@ -372,6 +372,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: Easley Dunn Productions
       - type: FeaturedItem
         title: KECK
         subtitle: ''
