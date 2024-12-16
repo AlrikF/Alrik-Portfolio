@@ -185,7 +185,7 @@ sections:
         label: PostgreSQL
         url: ''
       - type: Label
-        label: Redshift
+        label: AWS Redshift
         url: ''
       - type: Label
         label: Microsoft Office
