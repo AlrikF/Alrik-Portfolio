@@ -96,7 +96,7 @@ sections:
         borderRadius: x-small
         borderWidth: 0
         borderStyle: none
-        borderColor: border-dark
+        borderColor: border-secondary
         margin:
           - mt-1
           - mr-1
