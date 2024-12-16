@@ -276,6 +276,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Github
     columns: 3
     spacingX: 120
     spacingY: 0
