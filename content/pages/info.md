@@ -162,7 +162,7 @@ sections:
       - type: Label
         label: Pytorch
       - type: Label
-        label: Netlify
+        label: Tensorflow
       - type: Label
         label: Pancakes
       - type: Label
