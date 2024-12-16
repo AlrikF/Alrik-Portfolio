@@ -100,6 +100,7 @@ sections:
         margin:
           - mt-1
           - mr-1
+          - ml-1
       title:
         textAlign: left
       subtitle:
