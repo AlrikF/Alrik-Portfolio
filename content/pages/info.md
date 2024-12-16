@@ -13,14 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ### Hey I’m Alrik. I'm a developer driven by a curiosity for technology. I
-      have received my Master's in Computer Science from the University of
-      Southern California, and am deeply engaged in the realm of Computer
-      Science. My passion lies in harnessing a powerful blend of Software
-      development, Machine Learning, Data Engineering, and Analytics to engineer
-      pragmatic solutions that leave an impact
-
+    text: "### Hey I’m Alrik. \U0001F44B\n\nI’m a passionate developer fueled by curiosity and a love for technology. I hold a Master’s degree in Computer Science from the University of Southern California and am deeply immersed in the world of Computer Science. My expertise lies at the intersection of Software Development, Machine Learning, Data Engineering, and Analytics, where I thrive on building impactful, practical solutions to complex problems.\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
