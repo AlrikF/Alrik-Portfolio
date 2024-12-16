@@ -312,7 +312,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Hyperreality Technologies
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
