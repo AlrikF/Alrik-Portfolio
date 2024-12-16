@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey I’m Alrik. I'm a developer driven by a curiosity for technology. I
+      ### Hey I’m Alrik. I'm a developer driven by a curiosity for technology. I
       have received my Master's in Computer Science from the University of
       Southern California, and am deeply engaged in the realm of Computer
       Science. My passion lies in harnessing a powerful blend of Software
