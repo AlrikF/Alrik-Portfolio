@@ -362,7 +362,7 @@ sections:
               - pr-0
         title: Microsoft
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: Easley Dunn Productions
         text: |-
           **2015-2018**
 
