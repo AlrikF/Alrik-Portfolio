@@ -59,7 +59,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/Screenshot 2024-12-16 000255.png
+        url: /images/Logo-microsoft-transparent-background-PNG.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
