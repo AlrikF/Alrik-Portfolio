@@ -346,7 +346,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'University of Southern California '
-        subtitle: ''
+        subtitle: Masters in Computer Science - 3.85/4.0 GPA
         text: ''
         actions: []
         elementId: ''
