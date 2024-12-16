@@ -180,7 +180,7 @@ sections:
         label: Numpy
         url: ''
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
