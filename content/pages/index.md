@@ -13,13 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hey There! I’m Alrik Fernandes '
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm a Computer Science graduate from the University of Southern
+      California. My interests lie at the intersection of Software Development,
+      Machine Learning and Data Engineering 
     styles:
       self:
         height: auto
@@ -48,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
   - type: RecentProjectsSection
-    subtitle: Projects
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
@@ -82,4 +80,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Projects
 ---
