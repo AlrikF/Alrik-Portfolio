@@ -59,7 +59,7 @@ sections:
     colors: colors-f
     variant: variant-b
     elementId: ''
-    recentCount: 6
+    recentCount: 3
     showDate: false
     showDescription: true
     showFeaturedImage: true
