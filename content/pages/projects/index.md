@@ -27,16 +27,7 @@ projectFeed:
         - pb-12
   title: ASAEEE
   subtitle: ASAF
-  actions:
-    - type: Link
-      label: Learn more
-      altText: ''
-      url: >-
-        https://refactoring.guru/design-patterns/singleton/python/example#example-0
-      showIcon: false
-      icon: arrowRight
-      iconPosition: right
-      elementId: ''
+  actions: []
 styles:
   title:
     textAlign: left
