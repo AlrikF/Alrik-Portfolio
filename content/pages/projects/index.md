@@ -26,7 +26,7 @@ projectFeed:
         - pr-4
         - pb-12
   title: ASAEEE
-  subtitle: ASAF
+  subtitle: ''
   actions: []
 styles:
   title:
