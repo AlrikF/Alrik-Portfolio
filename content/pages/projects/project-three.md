@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Text Summarization From Speech
 colors: colors-a
-date: '2022-01-22'
+date: ''
 client: ''
 description: >-
   This project involves an end-to-end pipeline that performs automation speech
