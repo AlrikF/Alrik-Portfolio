@@ -26,6 +26,7 @@ projectFeed:
         - pr-4
         - pb-12
   title: ASA
+  subtitle: ASAF
 styles:
   title:
     textAlign: left
