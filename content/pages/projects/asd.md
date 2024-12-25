@@ -1,8 +1,8 @@
 ---
 type: ProjectLayout
 title: A Comprehensive Collection of Data Science Projects and Notebooks
-date: '2024-12-11'
-client: Awesome client
+date: ''
+client: ''
 description: >-
   This repository showcases an array of data science notebooks focused on
   exploratory data analysis (EDA), data curation, and the application of diverse
@@ -20,8 +20,11 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
+  url: >-
+    /images/DALL·E 2024-12-24 18.58.59 - A visually appealing and professional
+    representation of a data science repository, showcasing various datasets and
+    methodologies. The image features a.webp
+  altText: altText of the image
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
@@ -34,3 +37,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+[**SEE CODE ON GITHUB**](https://github.com/AlrikF/Data-science-statistical-modelling-projects)
