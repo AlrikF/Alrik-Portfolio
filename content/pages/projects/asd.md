@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Data science statistical modelling projects
 date: '2024-12-11'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Data-science-statistical-modelling-projects
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
