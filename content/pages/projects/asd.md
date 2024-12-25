@@ -20,7 +20,10 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: >-
+    /images/DALL·E 2024-12-24 18.58.59 - A visually appealing and professional
+    representation of a data science repository, showcasing various datasets and
+    methodologies. The image features a.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
