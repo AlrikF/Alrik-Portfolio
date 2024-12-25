@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Data science statistical modelling projects
+title: A Comprehensive Collection of Data Science Projects and Notebooks
 date: '2024-12-11'
 client: Awesome client
 description: >-
