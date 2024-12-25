@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: A Comprehensive Collection of Data Science Projects and Notebooks
-date: '2024-12-11'
+date: ''
 client: ''
 description: >-
   This repository showcases an array of data science notebooks focused on
