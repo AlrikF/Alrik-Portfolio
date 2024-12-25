@@ -3,7 +3,12 @@ type: ProjectLayout
 title: Data science statistical modelling projects
 date: '2024-12-11'
 client: Awesome client
-description: Data-science-statistical-modelling-projects
+description: >-
+  This repository showcases an array of data science notebooks focused on
+  exploratory data analysis (EDA), data curation, and the application of diverse
+  machine learning techniques to a variety of datasets. Each project highlights
+  detailed analysis, visualization, and algorithmic insights, offering both
+  depth and breadth in data science methodologies.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
