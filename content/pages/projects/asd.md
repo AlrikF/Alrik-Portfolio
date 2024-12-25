@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: A Comprehensive Collection of Data Science Projects and Notebooks
 date: '2024-12-11'
-client: Awesome client
+client: ''
 description: >-
   This repository showcases an array of data science notebooks focused on
   exploratory data analysis (EDA), data curation, and the application of diverse
